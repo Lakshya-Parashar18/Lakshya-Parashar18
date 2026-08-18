@@ -40,7 +40,7 @@ I enjoy turning ideas into real-world products — from AI-powered analytics pla
 
 * 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FWiYkMAFDGMNQ57CVQZtIlxg09r5A7nO/view?usp=sharing)
 
-* ⚡ Fun fact **Building real-world products at the intersection of software, AI/ML & problem-solving.**
+* ⚡ Fun fact: **Building real-world products at the intersection of software, AI/ML & problem-solving.**
 
 ---
 
