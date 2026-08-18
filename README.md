@@ -1,39 +1,253 @@
-<h1 align="center">Hi 👋, I'm Lakshya Parashar</h1>
-<h3 align="center">Final-year CSE (AI & ML) student and aspiring Software Engineer from India</h3>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakshya-parashar18" alt="lakshya-parashar18" /></a> </p>
+# 👋 Hi, I'm Lakshya Parashar
 
-- 🔭 I’m currently working on [FinMate](https://github.com/Lakshya-Parashar18/FinMate)
+### Software Engineer · Full-Stack Developer · AI/ML Enthusiast
 
-- 🌱 I’m currently learning **Advanced DSA, System Design, Machine Learning & Backend Development**
-
-- 👯 I’m looking to collaborate on **AI/ML & Full-Stack Projects**
-
-- 💬 Ask me about **React, FastAPI, Node.js, MongoDB, Python, Java & Full-Stack Dev**
-
-- 📫 How to reach me **lakshyaparashar18@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1FWiYkMAFDGMNQ57CVQZtIlxg09r5A7nO/view?usp=sharing](https://drive.google.com/file/d/1FWiYkMAFDGMNQ57CVQZtIlxg09r5A7nO/view?usp=sharing)
-
-- ⚡ Fun fact **Building real-world products at the intersection of software, AI/ML & problem-solving.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lakshya1502" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lakshya1502" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lakshya parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakshya parashar" height="30" width="40" /></a>
-<a href="https://kaggle.com/lakshyaparashar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="lakshyaparashar18" height="30" width="40" /></a>
-<a href="https://fb.com/lakshya parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="lakshya parashar" height="30" width="40" /></a>
-<a href="https://instagram.com/simplyy_luckyy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="simplyy_luckyy" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/lakshya_1518" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="lakshya_1518" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/lakshya_parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakshya_parashar" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/lakshya.23bce8333" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="lakshya.23bce8333" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/lakshya_parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="lakshya_parashar" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@lakshya_parashar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@lakshya_parashar" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/lakshya18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="lakshya18" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/302020" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="302020" height="30" width="40" /></a>
+<p>
+  <a href="https://github.com/Lakshya-Parashar18">
+    <img src="https://img.shields.io/badge/GitHub-Lakshya--Parashar18-181717?style=for-the-badge&logo=github" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/lakshyaparashar">
+    <img src="https://img.shields.io/badge/LinkedIn-Lakshya%20Parashar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lakshyaparashar18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+<img src="https://komarev.com/ghpvc/?username=Lakshya-Parashar18&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=lakshya-parashar18&show_icons=true&locale=en" alt="lakshya-parashar18" /></p>
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **final-year Computer Science (AI & ML) student** focused on building practical software products across **frontend, backend, and AI/ML**.
+
+I enjoy turning ideas into useful applications, working with APIs and databases, and experimenting with intelligent features that solve real-world problems.
+
+* 💻 Building full-stack web applications
+* 🤖 Exploring AI/ML-powered products
+* 🧠 Strengthening DSA, problem solving & system design
+* 🔧 Working with React, Node.js, FastAPI and MongoDB
+* 🚀 Interested in software engineering, backend systems and AI applications
+
+> **Building real-world products at the intersection of software, AI/ML & problem-solving.**
+
+---
+
+## 🔭 Currently Building
+
+* 📈 Full-stack applications with AI-powered features
+* 🤖 Practical AI/ML projects for real-world use cases
+* 🧠 Stronger foundations in DSA, backend engineering & system design
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js" alt="Programming Languages">
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" alt="Frontend Technologies">
+</p>
+
+### ⚙️ Backend & APIs
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" alt="Backend Technologies">
+</p>
+
+### 🤖 AI / ML & Data
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" alt="AI ML Technologies">
+</p>
+
+<p>
+  <b>Libraries:</b> NumPy · Pandas · Scikit-learn · Recharts
+</p>
+
+### 🗄️ Databases & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,postman,docker,aws" alt="Databases and Tools">
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 💰 FinMate
+
+**Smart personal finance platform with AI-powered insights.**
+
+FinMate is a full-stack finance application built around transaction management, analytics and intelligent financial features.
+
+**Highlights**
+
+* AI-powered transaction categorization
+* Spending forecasting
+* Anomaly detection
+* Financial health scoring
+* Authentication & secure API workflows
+* React + Vite frontend
+* Node.js + Express server
+* FastAPI + Python AI service
+* MongoDB Atlas
+
+🔗 [View Repository](https://github.com/Lakshya-Parashar18/FinMate)
+
+---
+
+### 🔐 SecureWipe
+
+**Secure data sanitization project focused on responsible data erasure.**
+
+Built around the problem of securely removing sensitive information from storage devices, with a focus on secure wiping and e-waste data protection.
+
+**Highlights**
+
+* Secure data erasure workflow
+* Data privacy & security focus
+* Web interface and supporting backend
+* Practical real-world cybersecurity use case
+
+🔗 [View Repository](https://github.com/Lakshya-Parashar18/SecureWipe)
+
+---
+
+### 🚦 Traffic AI
+
+**AI-powered traffic analysis and prediction platform.**
+
+A machine-learning project designed to analyze traffic conditions, visualize congestion and support smarter traffic-management decisions.
+
+**Highlights**
+
+* Traffic congestion prediction
+* Machine learning model integration
+* Interactive dashboard
+* Data visualization
+* Real-world traffic management use case
+
+🔗 [View Repository](https://github.com/Lakshya-Parashar18/Traffic-AI_FINAL)
+
+---
+
+## 📌 More Projects
+
+I also work on smaller experiments, prototypes and full-stack applications across:
+
+`React` · `JavaScript` · `Python` · `AI/ML` · `APIs` · `MongoDB` · `Data Visualization`
+
+👉 **[Explore all repositories](https://github.com/Lakshya-Parashar18?tab=repositories)**
+
+---
+
+## 📚 Currently Learning
+
+```text
+DSA & Problem Solving
+        ↓
+Backend Engineering
+        ↓
+System Design
+        ↓
+Machine Learning
+        ↓
+AI-powered Applications
+```
+
+---
+
+## 🎯 Areas of Interest
+
+* Software Engineering
+* Full-Stack Development
+* Backend Engineering
+* Artificial Intelligence & Machine Learning
+* Developer Tools
+* Intelligent Web Applications
+* System Design
+* Real-world problem solving
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Lakshya-Parashar18&show_icons=true&include_all_commits=true&hide_border=true&rank_icon=github&theme=github_dark"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshya-Parashar18&layout=compact&langs_count=8&hide_border=true&theme=github_dark"
+    height="170"
+    alt="Top Languages"
+  />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Lakshya-Parashar18&theme=github-dark-blue&hide_border=true"
+    alt="GitHub Contribution Streak"
+  />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Lakshya-Parashar18&theme=github-compact&hide_border=true&area=true"
+    alt="GitHub Contribution Activity Graph"
+  />
+</p>
+
+---
+
+## 🏆 GitHub Profile
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=Lakshya-Parashar18&theme=algolia&no-frame=true&no-bg=true&margin-w=6&row=1"
+    alt="GitHub Trophies"
+  />
+</p>
+
+---
+
+## 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/lakshyaparashar">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:lakshyaparashar18@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Reach%20Out-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+  <a href="https://github.com/Lakshya-Parashar18?tab=repositories">
+    <img src="https://img.shields.io/badge/Repositories-Explore-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories">
+  </a>
+</p>
+
+<div align="center">
+
+### ⚡ Build. Learn. Ship. Repeat.
+
+</div>
