@@ -96,7 +96,7 @@ I enjoy turning ideas into real-world products — from AI-powered analytics pla
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Lakshya-Parashar18&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Profile Trophy" />
+    <img src="https://trophy.ryglcloud.net/?username=Lakshya-Parashar18&theme=flat&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Profile Trophy" />
   </a>
 </p>
 
